@@ -1,0 +1,5 @@
+      Model  Accuracy  Precision_Macro  Recall_Macro  F1_Macro
+ custom_cnn  0.495935         0.242643      0.445949  0.314265
+mobilenetv2  0.792683         0.809812      0.792999  0.786241
+
+Best model by macro F1-score: mobilenetv2
